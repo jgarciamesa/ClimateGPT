@@ -206,7 +206,6 @@ dependencies:
     - fastapi==0.95.1
     - ffmpy==0.3.0
     - filelock==3.11.0
-    - flash-attn==1.0.2
     - fonttools==4.39.3
     - fschat==0.2.2
     - fsspec==2023.4.0
@@ -289,7 +288,7 @@ dependencies:
     - threadpoolctl==3.1.0
     - tokenizers==0.13.3
     - toolz==0.12.0
-    - transformers==4.29.0.dev0
+    - transformers==4.29.0
     - tzdata==2023.3
     - uc-micro-py==1.0.1
     - uvicorn==0.21.1
@@ -304,4 +303,4 @@ dependencies:
     - yarl==1.8.2
     - zipp==3.15.0
     - zstandard==0.21.0
-prefix: /home/sahal.mullappilly/.conda/envs/climateGPT
+prefix: /scratch/jgarc111/.conda/envs/climateGPT
